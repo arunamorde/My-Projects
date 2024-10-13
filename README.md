@@ -34,4 +34,13 @@ Business Solution 2                                         Maven Market Solutio
 Business Solution 3                                         Maven Market Solution 3
 Business Solution 4                                         Maven Market Solution 4
 
-Maven Market Dataset                               Maven Market CSV files 
+Maven Market Dataset Files 
+MavenMarket_Calendar
+MavenMarket_Customers
+MavenMarket_Products
+MavenMarket_Regions
+MavenMarket_Returns_1997-1998
+MavenMarket_Stores
+MavenMarket_Transactions_1997
+MavenMarket_Transactions_1998
+
