@@ -103,6 +103,7 @@ Conclusion: Delivered detailed reports that highlighted key performance indicato
 
 
 Project Collaboration with Google Tools
+
 Overview
 This project demonstrates effective collaboration using Google Docs, Google Drive, Google Meet, and Gmail. It showcases how these tools were utilized to manage project documentation, file storage, virtual meetings, and communication.
 
