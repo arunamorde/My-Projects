@@ -101,15 +101,6 @@ Contents: Maven Market Business Problems File contains the business Problems. Ma
 
 Conclusion: Delivered detailed reports that highlighted key performance indicators (KPIs) and trends, enabling stakeholders to make data-driven decisions. Provided actionable insights into sales performance, customer behavior, and product trends, driving strategic initiatives.
 
-Maven Market Power BI Report
-
-Overview This repository contains the files used for the analysis and report creation for Maven Market, a multi-national grocery chain with locations in Canada, Mexico, and the United States. The main Power BI report file is MavenMarket_Report.pbix.
-
-Key Responsibilities Data Import and Cleansing: Imported and cleaned data from various sources to ensure accuracy and consistency. Data Integration: Integrated data into a unified model with lookup tables and hierarchies. DAX Measures: Developed DAX measures to calculate key metrics and insights.
-
-Report Design: Created an interactive report using various visualizations such as matrices, KPI cards, maps, and charts to analyze Maven Market's performance and support decision-making.
-
-Contents: Maven Market Business Problems File contains the business Problems. Maven Market Solution file contains the required solutions.
 
 Project Collaboration with Google Tools
 Overview
@@ -121,9 +112,9 @@ Google Docs
 Google Drive
 Google Meet
 Gmail
-Screenshots
 Conclusion
 Future Enhancements
+
 Introduction
 This project highlights the use of Google Docs, Google Drive, Google Meet and Gmail for efficient project management and collaboration.These tools were essential in creating, sharing, communicating, and holding virtual meetings.
 Google Docs
@@ -156,6 +147,11 @@ Email Communication: Managed project-related communication via Gmail.
 
 Example Usage:
 Project related Emails: Sent emails to friends to know and inform  about project progress.
+
+Conclusion:
+Using Google Docs, Google Drive, Google Meet, and Gmail, the project team was able to collaborate effectively, ensuring that all members had access to the latest information and could communicate efficiently. These tools were crucial in the successful management of the project.
+
+
 
 
 Conclusion: Delivered detailed reports that highlighted key performance indicators (KPIs) and trends, enabling stakeholders to make data-driven decisions. Provided actionable insights into sales performance, customer behavior, and product trends, driving strategic initiatives.
