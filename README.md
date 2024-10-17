@@ -111,6 +111,53 @@ Report Design: Created an interactive report using various visualizations such a
 
 Contents: Maven Market Business Problems File contains the business Problems. Maven Market Solution file contains the required solutions.
 
+Project Collaboration with Google Tools
+Overview
+This project demonstrates effective collaboration using Google Docs, Google Drive, Google Meet, and Gmail. It showcases how these tools were utilized to manage project documentation, file storage, virtual meetings, and communication.
+
+Table of Contents
+Introduction
+Google Docs
+Google Drive
+Google Meet
+Gmail
+Screenshots
+Conclusion
+Future Enhancements
+Introduction
+This project highlights the use of Google Docs, Google Drive, Google Meet and Gmail for efficient project management and collaboration.These tools were essential in creating, sharing, communicating, and holding virtual meetings.
+Google Docs
+
+Key Features: Collaborative Editing: Used Google Docs for real-time document editing.
+
+Example Usage: Project Plan Document: Created a shared document for the project plan,    allowing all members to contribute and edit.
+Google Drive
+Key Features:
+File Storage: Stored all project-related files and special occasion photos in Google Drive.
+
+File Sharing: Shared files with friends, setting appropriate access settings.
+
+Integration: Seamlessly integrated with Google Docs for file management.
+
+Example Usage:
+Project Files Folder: Organized project files and photo files into a shared folder accessible to friends.
+
+Google Meet
+Key Features:
+Virtual Meetings: Held meetings and project discussions using Google Meet.
+
+Screen Sharing: Used screen sharing to show specific content to get clarity during project discussion.
+
+Example Usage:
+ Meetings: Conducted meetings to discuss project details and next steps.
+Gmail
+Key Features:
+Email Communication: Managed project-related communication via Gmail.
+
+Example Usage:
+Project related Emails: Sent emails to friends to know and inform  about project progress.
+
+
 Conclusion: Delivered detailed reports that highlighted key performance indicators (KPIs) and trends, enabling stakeholders to make data-driven decisions. Provided actionable insights into sales performance, customer behavior, and product trends, driving strategic initiatives.
 
 
